@@ -1,5 +1,3 @@
-pip install python-dotenv
-
 .env
 .cache
 __pycache__
