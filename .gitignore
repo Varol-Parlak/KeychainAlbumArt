@@ -1,0 +1,6 @@
+pip install python-dotenv
+
+.env
+.cache
+__pycache__
+*.pyc
